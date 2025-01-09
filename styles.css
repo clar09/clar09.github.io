@@ -101,7 +101,8 @@ header nav a {
     }
 
     .content {
-        padding: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
         
     .content h2 {
         font-size: 1.5rem;
